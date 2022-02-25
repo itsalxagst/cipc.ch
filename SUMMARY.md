@@ -20,3 +20,7 @@
 ***
 
 * [🔗 CIPC Official Site](https://cipc.ch)
+
+## 🖥 Le Projet
+
+* [Son avancement](le-projet/son-avancement.md)
