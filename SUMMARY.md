@@ -3,7 +3,7 @@
 ## 🏠 Accueil
 
 * [Informations](README.md)
-* [Description de CIPC](accueil/description-de-cipc.md)
+* [Qui sommes-nous ?](accueil/qui-sommes-nous.md)
 * [Partenaires](accueil/partenaires.md)
 
 ## 💰 Les investissements
