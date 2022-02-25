@@ -17,10 +17,10 @@
 
 * [Page 1](lagenda/page-1.md)
 
+## 🖥 Le Projet
+
+* [Ses étapes](le-projet/ses-etapes.md)
+
 ***
 
 * [🔗 CIPC Official Site](https://cipc.ch)
-
-## 🖥 Le Projet
-
-* [Son avancement](le-projet/son-avancement.md)
